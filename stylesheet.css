@@ -1,0 +1,134 @@
+header img {  
+    padding:30px;
+    margin:10px 1px 10px 10px;
+    float:right;
+    width:150px;
+    border:2px dotted;
+    border-radius:30%;
+    position:relative
+    
+}
+
+header {
+    border-radius:30%;
+    text-align:center;
+}
+
+nav {
+
+    font-size:12px;
+    width:300px;
+    padding:center;
+    margin:30px;
+    text-align:left;
+    
+}
+
+#tete {
+    font-family:Times, Verdana;
+    font-size:30px;
+    height:50px;
+    text-align:center;
+    
+}
+
+
+a {
+    text-decoration:none;
+    color:purple;
+}
+
+#chameau {
+    display:inline block;
+}
+    
+
+
+#agnes{
+    border:black ridge 9px;
+    width:700px;
+    font-size:25px;
+    padding:5px;
+    margin-left:200px;
+
+}
+
+
+body {
+    background-color:white;
+    background-image:url(http://img0.mxstatic.com/wallpapers/6e5b0771a9cdfe9163bac590601faae4_large.jpeg);
+    background-attachment:fixed;
+}
+
+
+
+#yann {
+    width:250px;
+    border:ridge black 8px;
+    font-family:Times, Verdana;
+    font-size:20px;
+    background-color:#F05454;
+    padding:20px;
+    opacity:0.9;
+    position:relative;
+    float:right;
+    right:200px;
+    bottom:300px;
+    
+
+}
+    
+#grenouille {
+    display:inline-block;
+}
+
+#apprendre {
+    width:330px;
+    text-shadow:10px 10px 8px black;
+    padding:10px;
+    position:relative;
+    bottom:300px;
+    left:400px;
+    
+
+
+}
+
+#interet {
+    width:480px;
+    border:3px solid black;
+    border-radius:5%;
+    padding-left:10px;
+    padding-bottom:5px;
+    background-color:#acacac;
+    position:relative;
+    left:900px;
+    margin-top:40px;
+
+}
+
+
+tbody img {
+    width:150px;
+    max-height:100px;
+    border:1px solid yellow;
+    border-radius:10px;
+}
+
+footer {
+    height:50px;
+    display:block;
+    background-image:url(http://thumbs.dreamstime.com/x/parasol-de-plage-9760736.jpg);
+    border:3px solid red;
+    border-radius:5%;
+    text-align:center;
+}
+
+footer span{
+text-decoration: blink;
+}
+
+.deux {
+    font-family:Times;
+    font-size:70px;
+}
